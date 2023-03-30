@@ -1,4 +1,4 @@
-# Projet-Systeme-Distrib
+# Projet Systemes Distribué
 JavaEE and Spring Project
 
 
